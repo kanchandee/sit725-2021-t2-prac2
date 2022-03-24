@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "name": "sit725-2021-t2-prac2",
+  "description": "prac week 2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": " node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanchandee/sit725-2021-t2-prac2.git"
+  },
+  "author": "kanchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanchandee/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/kanchandee/sit725-2021-t2-prac2#readme"
+}
